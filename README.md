@@ -1,29 +1,37 @@
 # Projeto-ImersaoAluraGemini
 
 
-Bem-vindo ao meu projeto!
+## Bem-vindo ao meu projeto!
+
 Este repositório contém o código fonte do meu projeto. Para que você possa executar este projeto localmente, siga os passos abaixo:
 
-Pré-requisitos:
-Git: Necessário para clonar o repositório.
-Node.js: A aplicação foi desenvolvida utilizando Node.js, portanto, é necessário ter o Node.js e o npm (Node Package Manager) instalados em sua máquina.
-Clonando o repositório:
+## Pré-requisitos:
+
+**Git**: Necessário para clonar o repositório.
+**Node.js**: A aplicação foi desenvolvida utilizando Node.js, portanto, é necessário ter o Node.js e o npm (Node Package Manager) instalados em sua máquina.
+
+## Clonando o repositório:
+
 Abra seu terminal ou prompt de comando.
 
 Navegue até o diretório onde deseja clonar o repositório.  
 
-Bash
+```
 git clone https://github.com/Fiszbejn/Projeto-ImersaoAluraGemini
 Use o código com cuidado.
+```
 
 Instalando as dependências:
 Acesse o diretório do projeto clonado:
 
-Bash
+
+```
 cd Projeto-ImersaoAluraGemini
 Use o código com cuidado.
+```
 
-Instale as dependências do projeto:
+## Instale as dependências do projeto:
+
 
 Bash
 npm install
