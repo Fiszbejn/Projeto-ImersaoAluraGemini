@@ -45,7 +45,7 @@ npm run dev
 
 Abra seu navegador e acesse: `http://localhost:3000`
 
-Instalando o Node.js:
+**Instalando o Node:**
 Caso você ainda não tenha o Node.js instalado, siga as instruções para o seu sistema operacional no site oficial: [node.js](https://nodejs.org/pt)
 
 **Observações:**
@@ -54,4 +54,4 @@ Versão do Node.js: Recomenda-se utilizar a mesma versão do Node.js que está e
 Problemas: Se você encontrar algum problema durante a instalação ou execução do projeto, verifique a documentação oficial do Node.js e npm para obter mais informações.
 Contribuições:
 
-## Agradeço pela sua visita e interesse no meu projeto!
+### Agradeço pela sua visita e interesse no meu projeto!
