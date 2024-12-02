@@ -16,38 +16,36 @@ Abra seu terminal ou prompt de comando.
 
 Navegue até o diretório onde deseja clonar o repositório.  
 
-```
+```bash
 git clone https://github.com/Fiszbejn/Projeto-ImersaoAluraGemini
-Use o código com cuidado.
 ```
 
 Instalando as dependências:
 Acesse o diretório do projeto clonado:
 
 
-```
+```bash
 cd Projeto-ImersaoAluraGemini
-Use o código com cuidado.
 ```
 
 ## Instale as dependências do projeto:
 
 
-Bash
+```bash
 npm install
-Use o código com cuidado.
+```
 
-Executando o projeto:
+## Executando o projeto:
 Inicie o servidor de desenvolvimento:   
 
-Bash
+```bash
 npm run dev
-Use o código com cuidado.
+```
 
-Abra seu navegador e acesse: http://localhost:3000
+Abra seu navegador e acesse: `http://localhost:3000`
 
 Instalando o Node.js:
-Caso você ainda não tenha o Node.js instalado, siga as instruções para o seu sistema operacional no site oficial: https://nodejs.org/
+Caso você ainda não tenha o Node.js instalado, siga as instruções para o seu sistema operacional no site oficial: [node.js](https://nodejs.org/pt)
 
 Observações:
 
